@@ -5,4 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\Users\pekka\PycharmProjects2\pythonPtroject\web_app1\requirements.txt" />
+    <option name="modifyBaseFiles" value="true" />
+  </component>
 </module>
